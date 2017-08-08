@@ -3,6 +3,7 @@ package test;
 public class Users {
 	private String names;
 	private String ages;
+	private String sex;
 	public String getNames() {
 		return names;
 	}
